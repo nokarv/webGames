@@ -6,7 +6,7 @@
 
 /* ini navbar*/
 .container{
-    background:linear-gradient( 325deg,#ec38bc 1%,#7303c0 30%,rgb(38, 38, 216) 70%, #9b23eb 100%,#fdeff9 10%);
+    background-color: rgb(38,38,216);
 }
 @media screen and(max-width:600px){.container{width:100%;}}
 .Navbar{
