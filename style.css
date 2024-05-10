@@ -6,7 +6,7 @@
 
 /* ini navbar*/
 .container{
-    background-color: rgb(38,38,216);
+    background: rgb(38,38,216);
 }
 @media screen and(max-width:600px){.container{width:100%;}}
 .Navbar{
